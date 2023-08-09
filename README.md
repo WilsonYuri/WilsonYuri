@@ -2,8 +2,6 @@
 [![WilsonYuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonYuri&show_icons=true&theme=holi&rank_icon=github)](https://github.com/WilsonYuri/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonYuri&size_weight=0.5&count_weight=0.5&layout=donut&theme=holi)
 
-## About me
-
 #### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
